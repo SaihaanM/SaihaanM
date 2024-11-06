@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SaihaanM
+- 👀 I’m interested in software development, sports and music
+- 🌱 I’m currently studying Computer Science at the Univeristy of Calgary
